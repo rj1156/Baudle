@@ -1,97 +1,112 @@
 {
     "numbers": [
-      { "title": "Good Morning" },
-      { "title": "Champion" },
-      { "title": "Stronger" },
-      { "title": "I Wonder" },
-      { "title": "Good Life" },
-      { "title": "Can't Tell Me Nothing" },
-      { "title": "Barry Bonds" },
-      { "title": "Drunk and Hot Girls" },
-      { "title": "Flashing Lights" },
-      { "title": "Everything I Am" },
-      { "title": "The Glory" },
-      { "title": "Homecoming" },
-      { "title": "Big Brother" }
+      { "title": "Bastard" },
+      { "title": "Seven" },
+      { "title": "Odd Toddlers" },
+      { "title": "French!" },
+      { "title": "Blow" },
+      { "title": "Pigs Fly" },
+      { "title": "Parade" },
+      { "title": "Slow It Down" },
+      { "title": "AssMilk" },
+      { "title": "VCR/Wheels" },
+      { "title": "Session" },
+      { "title": "Sarah" },
+      { "title": "Jack and the Beanstalk" },
+      { "title": "Tina" },
+      { "title": "Inglorious" }
+
     ],
     "songs": {
-      "Good Morning": {
-        "album": "Graduation",
+      "Bastard": {
+        "album": "Bastard",
         "track": 1,
-        "length": 197,
+        "length": 369,
         "features": []
       },
-      "Champion": {
-        "album": "Graduation",
+      "Seven": {
+        "album": "Bastard",
         "track": 2,
-        "length": 172,
+        "length": 209,
         "features": []
       },
-      "Stronger": {
-        "album": "Graduation",
+      "Odd Toddlers": {
+        "album": "Bastard",
         "track": 3,
-        "length": 311,
-        "features": []
+        "length": 216,
+        "features": ["Casey Veggies"]
       },
-      "I Wonder": {
-        "album": "Graduation",
+      "French!": {
+        "album": "Bastard",
         "track": 4,
-        "length": 230,
-        "features": []
+        "length": 243,
+        "features": ["Hodgy Beats"]
       },
-      "Good Life": {
-        "album": "Graduation",
+      "Blow": {
+        "album": "Bastard",
         "track": 5,
-        "length": 207,
-        "features": ["T-Pain"]
+        "length": 175,
+        "features": ["Syd tha Kyd"]
       },
-      "Can't Tell Me Nothing": {
-        "album": "Graduation",
+      "Pigs Fly": {
+        "album": "Bastard",
         "track": 6,
-        "length": 271,
-        "features": []
+        "length": 215,
+        "features": ["Domo Genesis"]
       },
-      "Barry Bonds": {
-        "album": "Graduation",
+      "Parade": {
+        "album": "Bastard",
         "track": 7,
-        "length": 187,
+        "length": 143,
         "features": ["Lil Wayne"]
       },
-      "Drunk and Hot Girls": {
-        "album": "Graduation",
+      "Slow It Down": {
+        "album": "Bastard",
         "track": 8,
-        "length": 308,
-        "features": ["Mos Def"]
+        "length": 188,
+        "features": ["Hodgy Beats"]
       },
-      "Flashing Lights": {
-        "album": "Graduation",
+      "AssMilk": {
+        "album": "Bastard",
         "track": 9,
-        "length": 239,
-        "features": ["Dwele"]
+        "length": 220,
+        "features": ["Earl Sweatshirt"]
       },
-      "Everything I Am": {
-        "album": "Graduation",
+      "VCR/Wheels": {
+        "album": "Bastard",
         "track": 10,
-        "length": 214,
-        "features": ["DJ Premier"]
+        "length": 208,
+        "features": ["Earl Sweatshirt"]
       },
-      "The Glory": {
-        "album": "Graduation",
+      "Session": {
+        "album": "Bastard",
         "track": 11,
-        "length": 211,
-        "features": []
+        "length": 215,
+        "features": ["Hodgy Beats","brandUn DeShay","Mike G"]
       },
-      "Homecoming": {
-        "album": "Graduation",
+      "Sarah": {
+        "album": "Bastard",
         "track": 12,
-        "length": 200,
+        "length": 287,
         "features": ["Chris Martin"]
       },
-      "Big Brother": {
-        "album": "Graduation",
+      "Jack and the Beanstalk": {
+        "album": "Bastard",
         "track": 13,
-        "length": 258,
+        "length": 231,
         "features": []
+      },
+      "Tina": {
+        "album": "Bastard",
+        "track": 14,
+        "length": 187,
+        "features": ["Jasper Dolphin","Taco"]
+      },
+      "Inglorious": {
+        "album": "Bastard",
+        "track": 15,
+        "length": 245,
+        "features": ["Hodgy Beats"]
       }
     }
   }

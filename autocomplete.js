@@ -32,7 +32,7 @@ const songTitles = [
     "Window",
     "AU79",
     "Golden",
-    Burger",
+    "Burger",
     "Untitled 63",
     "Steak Sauce",
 
@@ -85,7 +85,7 @@ const songTitles = [
     "Droppin' Seeds",
     "November",
     "Glitter",
-    "Enjoy Right Now, Today"
+    "Enjoy Right Now, Today",
      
 // IGOR
     "IGOR'S THEME",
