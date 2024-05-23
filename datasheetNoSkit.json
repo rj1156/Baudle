@@ -1,5 +1,6 @@
 {
     "numbers": [
+      "comment: Bastard Mixtape",
       { "title": "Bastard" },
       { "title": "Seven" },
       { "title": "Odd Toddlers" },
@@ -14,8 +15,81 @@
       { "title": "Sarah" },
       { "title": "Jack and the Beanstalk" },
       { "title": "Tina" },
-      { "title": "Inglorious" }
+      { "title": "Inglorious" },
 
+    "comment: Goblin Tracklist",
+      { "title": "Goblin" },
+      { "title": "Yonkers" },
+      { "title": "Radicals" },
+      { "title": "She" },
+      { "title": "Transylvania" },
+      { "title": "Nightmare" },
+      { "title": "Tron Cat" },
+      { "title": "Her" },
+      { "title": "Sandwitches" },
+      { "title": "Fish" },
+      { "title": "Analog" },
+      { "title": "B.S.D." },
+      { "title": "Window" },
+      { "title": "AU79" },
+      { "title": "Golden" },
+      { "title": "Burger" },
+      { "title": "Unititled 63" },
+      { "title": "Steak Sauce" },
+    
+    "coment: Wolf Tracklist",
+      { "title": "WOLF" },
+      { "title": "Jamba" },
+      { "title": "Cowboy" },
+      { "title": "Awkward" },
+      { "title": "Domo23" },
+      { "title": "Answer" },
+      { "title": "Slater" },
+      { "title": "48" },
+      { "title": "Colossus" },
+      { "title": "PartyIsntOver/Campfire/Bimmer" },
+      { "title": "IFHY" },
+      { "title": "Pigs" },
+      { "title": "Parking Lot" },
+      { "title": "Rusty" },
+      { "title": "TrashWang" },
+      { "title": "Treehome95" },
+      { "title": "Tamale" },
+      { "title": "Lone" },
+
+    "coment: Cherry Bomb Tracklist",
+      { "title": "DEATHCAMP" },
+      { "title": "BUFFALO" },
+      { "title": "PILOT" },
+      { "title": "RUN" },
+      { "title": "FIND YOUR WINGS" },
+      { "title": "CHERRY BOMB" },
+      { "title": "BLOW MY LOAD" },
+      { "title": "2SEATER" },
+      { "title": "THE BROWN STAINS ON DARKEESE LATIFAH PART 6-12 (REMIX)" },
+      { "title": "FUCKING YOUNG/PERFECT" },
+      { "title": "SMUCKERS" },
+      { "title": "KEEP DA O'S" },
+      { "title": "OKAGA,CA" },
+      { "title": "YELLOW" },
+
+    "coment: Flower Boy Tracklist",
+      { "title": "Foreward" },
+      { "title": "Where This Flower Blooms" },
+      { "title": "Sometimes..." },
+      { "title": "See You Again" },
+      { "title": "Who Dat Boy" },
+      { "title": "Pothole" },
+      { "title": "Garden Shed" },
+      { "title": "Boredom" },
+      { "title": "I Ain't Got Time!" },
+      { "title": "911/Mr. Lonely" },
+      { "title": "Droppin' Seeds" },
+      { "title": "November" },
+      { "title": "Glitter" },
+      { "title": "Enjoy Right Now, Today" },
+
+      "comment: Igor Tracklist"
     ],
     "songs": {
       "Bastard": {
@@ -46,7 +120,7 @@
         "album": "Bastard",
         "track": 5,
         "length": 175,
-        "features": ["Syd tha Kyd"]
+        "features": ["Syd Bennett"]
       },
       "Pigs Fly": {
         "album": "Bastard",
@@ -58,7 +132,7 @@
         "album": "Bastard",
         "track": 7,
         "length": 143,
-        "features": ["Lil Wayne"]
+        "features": []
       },
       "Slow It Down": {
         "album": "Bastard",
@@ -88,7 +162,7 @@
         "album": "Bastard",
         "track": 12,
         "length": 287,
-        "features": ["Chris Martin"]
+        "features": []
       },
       "Jack and the Beanstalk": {
         "album": "Bastard",
@@ -100,13 +174,404 @@
         "album": "Bastard",
         "track": 14,
         "length": 187,
-        "features": ["Jasper Dolphin","Taco"]
+        "features": ["Jasper","Taco"]
       },
       "Inglorious": {
         "album": "Bastard",
         "track": 15,
         "length": 245,
         "features": ["Hodgy Beats"]
-      }
+      },
+
+      
+      "Goblin": {
+        "album": "Goblin",
+        "track": 1,
+        "length": 408,
+        "features": []
+      },
+      "Yonkers": {
+        "album": "Goblin",
+        "track": 2,
+        "length": 249,
+        "features": []
+      },
+      "Radicals": {
+        "album": "Goblin",
+        "track": 3,
+        "length": 438,
+        "features": []
+      },
+      "She": {
+        "album": "Goblin",
+        "track": 4,
+        "length": 253,
+        "features": ["Frank Ocean"]
+      },
+      "Transylvania": {
+        "album": "Goblin",
+        "track": 5,
+        "length": 192,
+        "features": []
+      },
+      "Nightmare": {
+        "album": "Goblin",
+        "track": 6,
+        "length": 322,
+        "features": []
+      },
+      "Tron Cat": {
+        "album": "Goblin",
+        "track": 7,
+        "length": 253,
+        "features": []
+      },
+      "Her": {
+        "album": "Goblin",
+        "track": 8,
+        "length": 211,
+        "features": []
+      },
+      "Sandwitches": {
+        "album": "Goblin",
+        "track": 8,
+        "length": 291,
+        "features": ["Hodgy Beats"]
+      },
+      "Fish": {
+        "album": "Goblin",
+        "track": 9,
+        "length": 379,
+        "features": []
+      },
+      "Analog": {
+        "album": "Goblin",
+        "track": 10,
+        "length": 174,
+        "features": ["Hodgy Beats"]
+      },
+      "B.S.D.": {
+        "album": "Goblin",
+        "track": 11,
+        "length": 216,
+        "features": ["Jasper","Taco"]
+      },
+      "Window": {
+        "album": "Goblin",
+        "track": 12,
+        "length": 480,
+        "features": ["Domo Genesis","Frank Ocean","Hodgy Beats","Mike G"]
+      },
+      "AU79": {
+        "album": "Goblin",
+        "track": 13,
+        "length": 220,
+        "features": []
+      },
+      "Golden": {
+        "album": "Goblin",
+        "track": 14,
+        "length": 343,
+        "features": []
+      },
+      "Burger": {
+        "album": "Goblin",
+        "track": 15,
+        "length": 229,
+        "features": ["Hodgy Beats"]
+      },
+      "Unititled 63": {
+        "album": "Goblin",
+        "track": 16,
+        "length": 66,
+        "features": []
+      },
+      "Steak Sauce": {
+        "album": "Goblin",
+        "track": 17,
+        "length": 202,
+        "features": []
+      },
+
+      "WOLF": {
+        "album": "Wolf",
+        "track": 1,
+        "length": 110,
+        "features": []
+      },
+      "Jamba": {
+        "album": "Wolf",
+        "track": 2,
+        "length": 212,
+        "features": ["Hodgy Beats"]
+      },
+      "Cowboy": {
+        "album": "Wolf",
+        "track": 3,
+        "length": 195,
+        "features": []
+      },
+      "Awkward": {
+        "album": "Wolf",
+        "track": 4,
+        "length": 227,
+        "features": []
+      },
+      "Domo23": {
+        "album": "Wolf",
+        "track": 5,
+        "length": 158,
+        "features": []
+      }, 
+      "Answer": {
+        "album": "Wolf",
+        "track": 6,
+        "length": 230,
+        "features": []
+      },
+      "Slater": {
+        "album": "Wolf",
+        "track": 7,
+        "length": 233,
+        "features": ["Frank Ocean"]
+      },
+      "48": {
+        "album": "Wolf",
+        "track": 8,
+        "length": 247,
+        "features": []
+      },
+      "Colossus": {
+        "album": "Wolf",
+        "track": 9,
+        "length": 233,
+        "features": []
+      },
+      "PartyIsntOver/Campfire/Bimmer": {
+        "album": "Wolf",
+        "track": 10,
+        "length": 428,
+        "features": ["Laetitia","Frank Ocean"]
+      },
+      "IFHY": {
+        "album": "Wolf",
+        "track": 11,
+        "length": 319,
+        "features": ["Pharrell"]
+      },
+      "Pigs": {
+        "album": "Wolf",
+        "track": 12,
+        "length": 254,
+        "features": []
+      },
+      "Parking Lot": {
+        "album": "Wolf",
+        "track": 13,
+        "length": 233,
+        "features": ["Casey Veggies","Mike G"]
+      },
+      "Rusty": {
+        "album": "Wolf",
+        "track": 14,
+        "length": 309,
+        "features": ["Domo Genesis","Earl Sweatshirt"]
+      },
+      "TrashWang": {
+        "album": "Wolf",
+        "track": 15,
+        "length": 282,
+        "features": ["Left Brain","Na-Kel","Jasper","Taco","L-Boy","Lucas","Lee Spielman"]
+      },
+      "Treehome95": {
+        "album": "Wolf",
+        "track": 16,
+        "length": 180,
+        "features": ["Erykah Badu","Coco Owino"]
+      },
+      "Tamale": {
+        "album": "Wolf",
+        "track": 17,
+        "length": 166,
+        "features": []
+      },
+      "Lone": {
+        "album": "Wolf",
+        "track": 18,
+        "length": 240,
+        "features": []
+      },
+
+
+      "DEATHCAMP": {
+        "album": "Cherry Bomb",
+        "track": 1,
+        "length": 189,
+        "features": ["Cole Alexander"]
+      },
+      "BUFFALO": {
+        "album": "Cherry Bomb",
+        "track": 2,
+        "length": 159,
+        "features": ["Shane Powers"]
+      },
+      "PILOT": {
+        "album": "Cherry Bomb",
+        "track": 3,
+        "length": 149,
+        "features": ["Syd Bennett"]
+      },
+      "RUN": {
+        "album": "Cherry Bomb",
+        "track": 4,
+        "length": 69,
+        "features": ["Chaz Bundick","Schoolboy Q"]
+      },
+      "FIND YOUR WINGS": {
+        "album": "Cherry Bomb",
+        "track": 5,
+        "length": 179,
+        "features": ["Roy Ayers", "Syd Bennett","Jameel Kirk Bruner","Samantha Nelson","Tiffany Palmer","Onitsha Shaw","Kali Uchis"]
+      }, 
+      "CHERRY BOMB": {
+        "album": "Cherry Bomb",
+        "track": 6,
+        "length": 269,
+        "features": []
+      },
+      "BLOW MY LOAD": {
+        "album": "Cherry Bomb",
+        "track": 7,
+        "length": 190,
+        "features": ["Wanya Morris","Dam-Funk"]
+      },
+      "2SEATER": {
+        "album": "Cherry Bomb",
+        "track": 8,
+        "length": 409,
+        "features": ["Aaron Shaw","Samantha Nelson"]
+      },
+      "THE BROWN STAINS ON DARKEESE LATIFAH PART 6-12": {
+        "album": "Cherry Bomb",
+        "track": 9,
+        "length": 191,
+        "features": ["Schoolboy Q"]
+      },
+      "FUCKING YOUNG/PERFECT": {
+        "album": "Cherry Bomb",
+        "track": 10,
+        "length": 401,
+        "features": ["Charlie Wilson","Chaz Bundick","Syd Bennett","Kali Uchis"]
+      },
+      "SMUCKERS": {
+        "album": "Cherry Bomb",
+        "track": 11,
+        "length": 334,
+        "features": ["Lil Wayne","Kanye West"]
+      },
+      "KEEP DA O'S": {
+        "album": "Cherry Bomb",
+        "track": 12,
+        "length": 248,
+        "features": ["Pharrell","Coco Owino"]
+      },
+      "OKAGA,CA": {
+        "album": "Cherry Bomb",
+        "track": 13,
+        "length": 397,
+        "features": ["Alice Smith","Leon Ware","Clem Creevy"]
+      },
+      "YELLOW": {
+        "album": "Cherry Bomb",
+        "track": 14,
+        "length": 177,
+        "features": ["Kali Uchis"]
+      },
+
+
+      "Foreward": {
+        "album": "Flower Boy",
+        "track": 1,
+        "length": 194,
+        "features": ["Rex Orange County"]
+      },
+      "Where This Flower Blooms": {
+        "album": "Flower Boy",
+        "track": 2,
+        "length": 194,
+        "features": ["Frank Ocean"]
+      },
+      "Sometimes...": {
+        "album": "Flower Boy",
+        "track": 3,
+        "length": 36,
+        "features": []
+      },
+      "See You Again": {
+        "album": "Flower Boy",
+        "track": 4,
+        "length": 180,
+        "features": ["Kali Uchis"]
+      },
+      "Who Dat Boy": {
+        "album": "Flower Boy",
+        "track": 5,
+        "length": 205,
+        "features": ["A$AP Rocky"]
+      }, 
+      "Pothole": {
+        "album": "Flower Boy",
+        "track": 6,
+        "length": 237,
+        "features": ["Jaden"]
+      },
+      "Garden Shed": {
+        "album": "Flower Boy",
+        "track": 7,
+        "length": 223,
+        "features": ["Estelle"]
+      },
+      "Boredom": {
+        "album": "Flower Boy",
+        "track": 8,
+        "length": 320,
+        "features": ["Rex Orange County", "Anna of the North"]
+      },
+      "I Ain't Got Time!": {
+        "album": "Flower Boy",
+        "track": 9,
+        "length": 206,
+        "features": []
+      },
+      "911/Mr. Lonely": {
+        "album": "Flower Boy",
+        "track": 10,
+        "length": 255,
+        "features": ["Frank Ocean","Steve Lacy"]
+      },
+      "Droppin' Seeds": {
+        "album": "Flower Boy",
+        "track": 11,
+        "length": 60,
+        "features": ["Lil Wayne"]
+      },
+      "November": {
+        "album": "Flower Boy",
+        "track": 12,
+        "length": 225,
+        "features": []
+      },
+      "Glitter": {
+        "album": "Flower Boy",
+        "track": 13,
+        "length": 224,
+        "features": []
+      },
+      "Enjoy Right Now, Today": {
+        "album": "Flower Boy",
+        "track": 14,
+        "length": 235,
+        "features": []
+      },
     }
   }
