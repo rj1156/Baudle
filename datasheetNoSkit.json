@@ -89,7 +89,57 @@
       { "title": "Glitter" },
       { "title": "Enjoy Right Now, Today" },
 
-      "comment: Igor Tracklist"
+      "comment: Igor Tracklist",
+
+        { "title": "IGOR'S THEME" },
+        { "title": "EARFQUAKE" },
+        { "title": "I THINK" },
+        { "title": "EXACTLY WHAT YOU RUN FROM YOU END UP CHASING" },
+        { "title": "RUNNING OUT OF TIME" },
+        { "title": "NEW MAGIC WAND" },
+        { "title": "A BOY IS A GUN*" },
+        { "title": "PUPPET" },
+        { "title": "WHAT'S GOOD" },
+        { "title": "GONE, GONE/THANK YOU" },
+        { "title": "I DONT LOVE YOU ANYMORE" },
+        { "title": "ARE WE STILL FRIENDS" },
+
+      "comment: Call Me If You Get Lost tracklist + Estate Sale",
+
+        { "title": "SIR BAUDELAIRE" },
+        { "title": "CORSO" },
+        { "title": "LEMONHEAD" },
+        { "title": "WUSYANAME" },
+        { "title": "LUMBERJACK" },
+        { "title": "HOT WIND BLOWS" },
+        { "title": "MASSA" },
+        { "title": "RUNITUP" },
+        { "title": "MANIFESTO" },
+        { "title": "SWEET/I THOUGHT YOU WANTED TO DANCE" },
+        { "title": "MOMMA TALK" },
+        { "title": "RISE!" },
+        { "title": "BLESSED" },
+        { "title": "JUGGERNAUT" },
+        { "title": "WILSHIRE" },
+        { "title": "SAFARI" },
+        { "title": "EVERYTHING MUST GO" },
+        { "title": "STUNTMAN" },
+        { "title": "WHAT A DAY" },
+        { "title": "WHARF TALK" },
+        { "title": "DOGTOOTH" },
+        { "title": "HEAVEN TO ME" },
+        { "title": "BOYFRIEND, GIRLFRIEND" },
+        { "title": "SORRY NOT SORRY" },
+
+        "comment: Grinch Tracklist",
+
+        { "title": "Whoville" },
+        { "title": "Lights On" },
+        { "title": "Hot Chocolate" },
+        { "title": "Big Bag" },
+        { "title": "When Gloves Come Off" },
+        { "title": "Cindy Lou's Wish" }
+
     ],
     "songs": {
       "Bastard": {
@@ -573,5 +623,79 @@
         "length": 235,
         "features": []
       },
+
+
+      "IGOR'S THEME": {
+        "album": "IGOR",
+        "track": 1,
+        "length": ?,
+        "features": ["Lil Uzi Vert"]
+      },
+      "EARFQUAKE": {
+        "album": "IGOR",
+        "track": 2,
+        "length": ?,
+        "features": ["Playboi Carti"]
+      },
+      "I THINK": {
+        "album": "IGOR",
+        "track": 3,
+        "length": ,
+        "features": []
+      },
+      "EXACTLY WHAT YOU RUN FROM YOU END UP CHASING": {
+        "album": "IGOR",
+        "track": 4,
+        "length": ?,
+        "features": []
+      },
+      "NEW MAGIC WAND": {
+        "album": "IGOR",
+        "track": 5,
+        "length": ?,
+        "features": []
+      },
+      "A BOY IS A GUN": {
+        "album": "IGOR",
+        "track": 6,
+        "length": ?,
+        "features": []
+      },
+        "A BOY IS A GUN*": {
+          "album": "IGOR",
+          "track": 7,
+          "length": ?,
+          "features": []
+      },
+      "PUPPET": {
+        "album": "IGOR",
+        "track": 8,
+        "length": ?,
+        "features": []
+      },
+      "WHAT'S GOOD": {
+        "album": "IGOR",
+        "track": 9,
+        "length": ?,
+        "features": []
+      },
+      "GONE, GONE/THANK YOU": {
+        "album": "IGOR",
+        "track": 10,
+        "length": ?,
+        "features": []
+      },
+      "I DON'T LOVE YOU ANYMORE": {
+        "album": "IGOR",
+        "track": 11,
+        "length": ?,
+        "features": []
+      },
+      "ARE WE STILL FRIENDS": {
+        "album": "IGOR",
+        "track": 12,
+        "length": ?,
+        "features": []
+      }
     }
   }
