@@ -628,74 +628,219 @@
       "IGOR'S THEME": {
         "album": "IGOR",
         "track": 1,
-        "length": ?,
+        "length": 200,
         "features": ["Lil Uzi Vert"]
       },
       "EARFQUAKE": {
         "album": "IGOR",
         "track": 2,
-        "length": ?,
+        "length": 190,
         "features": ["Playboi Carti"]
       },
       "I THINK": {
         "album": "IGOR",
         "track": 3,
-        "length": ,
+        "length": 212,
         "features": []
       },
       "EXACTLY WHAT YOU RUN FROM YOU END UP CHASING": {
         "album": "IGOR",
         "track": 4,
-        "length": ?,
+        "length": 14,
+        "features": []
+      },
+      "RUNNING OUT OF TIME": {
+        "album": "IGOR",
+        "track":5,
+        "length": 177,
         "features": []
       },
       "NEW MAGIC WAND": {
         "album": "IGOR",
-        "track": 5,
-        "length": ?,
-        "features": []
-      },
-      "A BOY IS A GUN": {
-        "album": "IGOR",
         "track": 6,
-        "length": ?,
+        "length": 195,
         "features": []
       },
         "A BOY IS A GUN*": {
           "album": "IGOR",
           "track": 7,
-          "length": ?,
+          "length": 210,
           "features": []
       },
       "PUPPET": {
         "album": "IGOR",
         "track": 8,
-        "length": ?,
+        "length": 179,
         "features": []
       },
       "WHAT'S GOOD": {
         "album": "IGOR",
         "track": 9,
-        "length": ?,
+        "length": 205,
         "features": []
       },
       "GONE, GONE/THANK YOU": {
         "album": "IGOR",
         "track": 10,
-        "length": ?,
+        "length": 375,
         "features": []
       },
       "I DON'T LOVE YOU ANYMORE": {
         "album": "IGOR",
         "track": 11,
-        "length": ?,
+        "length": 161,
         "features": []
       },
       "ARE WE STILL FRIENDS": {
         "album": "IGOR",
         "track": 12,
+        "length": 265,
+        "features": []
+      },
+
+      "SIR BAUDELAIRE": {
+        "album": "CALL ME IF YOU GET LOST",
+        "track": 1,
+        "length": 88,
+        "features": ["DJ Drama"]
+      },
+      "CORSO": {
+        "album": "CALL ME IF YOU GET LOST",
+        "track": 2,
+        "length": 146,
+        "features": []
+      },
+      "LEMONHEAD": {
+        "album": "CALL ME IF YOU GET LOST",
+        "track": 3,
+        "length": 130,
+        "features": ["42 Dugg"]
+      },
+      "WUSYANAME": {
+        "album": "CALL ME IF YOU GET LOST",
+        "track": 4,
+        "length": 121,
+        "features": ["YounBoy Never Broke Again","Ty Dolla $ign"]
+      },
+      "LUMBERJACK": {
+        "album": "CALL ME IF YOU GET LOST",
+        "track": 5,
+        "length": 138,
+        "features": []
+      },
+      "HOT WIND BLOWS": {
+        "album": "CALL ME IF YOU GET LOST",
+        "track": 6,
+        "length": 155,
+        "features": []
+      },
+      "MASSA": {
+        "album": "CALL ME IF YOU GET LOST",
+        "track": 7,
+        "length": 223,
+        "features": []
+      },
+      "RUNITUP": {
+        "album": "CALL ME IF YOU GET LOST",
+        "track": 8,
+        "length": 229,
+        "features": []
+      },
+      "MANIFESTO": {
+        "album": "CALL ME IF YOU GET LOST",
+        "track": 9,
+        "length": 175,
+        "features": []
+      },
+      "SWEET/I THOUGHT YOU WANTED TO DANCE": {
+        "album": "CALL ME IF YOU GET LOST",
+        "track": 10,
+        "length": 588,
+        "features": []
+      },
+      "MOMMA TALK": {
+        "album": "CALL ME IF YOU GET LOST",
+        "track": 11,
+        "length": 70,
+        "features": []
+      },
+      "RISE!": {
+        "album": "CALL ME IF YOU GET LOST",
+        "track": 12,
+        "length": 203,
+        "features": []
+      },
+      "BLESSED": {
+        "album": "CALL ME IF YOU GET LOST",
+        "track": 13,
+        "length": 57,
+        "features": []
+      },
+      "JUGGERNAUT": {
+        "album": "CALL ME IF YOU GET LOST",
+        "track": 14,
+        "length": ,
+        "features": []
+      },
+      "WILSHIRE": {
+        "album": "CALL ME IF YOU GET LOST",
+        "track": 15,
         "length": ?,
         "features": []
-      }
+      },
+      "SAFARI": {
+        "album": "CALL ME IF YOU GET LOST",
+        "track": 16,
+        "length": ?,
+        "features": []
+      },
+      "EVERYTHING MUST GO ": {
+        "album": "CALL ME IF YOU GET LOST",
+        "track": 17,
+        "length": ?,
+        "features": []
+      },
+      "STUNTMAN": {
+        "album": "CALL ME IF YOU GET LOST",
+        "track": 18,
+        "length": ?,
+        "features": []
+      },
+      "WHAT A DAY": {
+        "album": "CALL ME IF YOU GET LOST",
+        "track": 19,
+        "length": ?,
+        "features": []
+      },
+      "WHARF TALK": {
+        "album": "CALL ME IF YOU GET LOST",
+        "track": 20,
+        "length": ?,
+        "features": []
+      },
+      "DOGTOOTH": {
+        "album": "CALL ME IF YOU GET LOST",
+        "track": 21,
+        "length": ?,
+        "features": []
+      },
+      "HEAVEN TO ME": {
+        "album": "CALL ME IF YOU GET LOST",
+        "track": 22,
+        "length": ?,
+        "features": []
+      },
+      "BOYFRIEND, GIRLFRIEND": {
+        "album": "CALL ME IF YOU GET LOST",
+        "track": 23,
+        "length": ?,
+        "features": ["YG"]
+      },
+      "SORRY NOT SORRY": {
+        "album": "CALL ME IF YOU GET LOST",
+        "track": 24,
+        "length": ?,
+        "features": []
+      },
     }
   }
