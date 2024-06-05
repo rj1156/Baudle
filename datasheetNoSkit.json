@@ -732,7 +732,7 @@
         "album": "CALL ME IF YOU GET LOST",
         "track": 6,
         "length": 155,
-        "features": []
+        "features": ["Lil Wayne"]
       },
       "MASSA": {
         "album": "CALL ME IF YOU GET LOST",
@@ -744,19 +744,19 @@
         "album": "CALL ME IF YOU GET LOST",
         "track": 8,
         "length": 229,
-        "features": []
+        "features": ["Teezo Touchdown"]
       },
       "MANIFESTO": {
         "album": "CALL ME IF YOU GET LOST",
         "track": 9,
         "length": 175,
-        "features": []
+        "features": ["Domo Genesis"]
       },
       "SWEET/I THOUGHT YOU WANTED TO DANCE": {
         "album": "CALL ME IF YOU GET LOST",
         "track": 10,
         "length": 588,
-        "features": []
+        "features": ["Brent Faiyaz", "Fana Hues"]
       },
       "MOMMA TALK": {
         "album": "CALL ME IF YOU GET LOST",
@@ -768,7 +768,7 @@
         "album": "CALL ME IF YOU GET LOST",
         "track": 12,
         "length": 203,
-        "features": []
+        "features": ["Daisy World"]
       },
       "BLESSED": {
         "album": "CALL ME IF YOU GET LOST",
@@ -779,68 +779,68 @@
       "JUGGERNAUT": {
         "album": "CALL ME IF YOU GET LOST",
         "track": 14,
-        "length": ,
-        "features": []
+        "length": 146,
+        "features": ["Lil Uzi Vert", "Pharrell"]
       },
       "WILSHIRE": {
         "album": "CALL ME IF YOU GET LOST",
         "track": 15,
-        "length": ?,
+        "length": 515,
         "features": []
       },
       "SAFARI": {
         "album": "CALL ME IF YOU GET LOST",
         "track": 16,
-        "length": ?,
+        "length": 177,
         "features": []
       },
       "EVERYTHING MUST GO ": {
         "album": "CALL ME IF YOU GET LOST",
         "track": 17,
-        "length": ?,
+        "length": 28,
         "features": []
       },
       "STUNTMAN": {
         "album": "CALL ME IF YOU GET LOST",
         "track": 18,
-        "length": ?,
-        "features": []
+        "length": 200,
+        "features": ["Vince Staples"]
       },
       "WHAT A DAY": {
         "album": "CALL ME IF YOU GET LOST",
         "track": 19,
-        "length": ?,
+        "length": 217,
         "features": []
       },
       "WHARF TALK": {
         "album": "CALL ME IF YOU GET LOST",
         "track": 20,
-        "length": ?,
-        "features": []
+        "length": 204,
+        "features": ["A$AP Rocky"]
       },
       "DOGTOOTH": {
         "album": "CALL ME IF YOU GET LOST",
         "track": 21,
-        "length": ?,
+        "length": 161,
         "features": []
       },
       "HEAVEN TO ME": {
         "album": "CALL ME IF YOU GET LOST",
         "track": 22,
-        "length": ?,
+        "length": 231,
         "features": []
       },
       "BOYFRIEND, GIRLFRIEND": {
         "album": "CALL ME IF YOU GET LOST",
         "track": 23,
-        "length": ?,
+        "length": 204,
         "features": ["YG"]
       },
       "SORRY NOT SORRY": {
         "album": "CALL ME IF YOU GET LOST",
         "track": 24,
-        "length": ?,
+        "length": 206,
         "features": []
-      },
+      }
     }
   }
